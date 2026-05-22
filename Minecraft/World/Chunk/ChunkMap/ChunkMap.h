@@ -1,6 +1,7 @@
 #pragma once
 #include "../Chunk.h"
 #include <unordered_map>
+#include <mutex>
 #include "../../Coordinate.h"
 class ChunkMap{
 public:

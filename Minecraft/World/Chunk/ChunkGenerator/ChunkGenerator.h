@@ -5,6 +5,7 @@
 #include <thread>
 #include <vector>
 #include <queue>
+#include <mutex>
 
 class ChunkGenerator {
 public:
